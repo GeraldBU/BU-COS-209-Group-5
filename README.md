@@ -1,7 +1,7 @@
 # BU-COS-209 - Group 5
 
 **Course:** BU-COS-209
-**Group:** Group 9
+**Group:** Group 5
 **Project Title:** 
 
 ## Group Members
