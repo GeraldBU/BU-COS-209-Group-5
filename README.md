@@ -1,4 +1,4 @@
-# BU-COS-209 - Group 9
+# BU-COS-209 - Group 5
 
 **Course:** BU-COS-209
 **Group:** Group 9
