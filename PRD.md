@@ -14,12 +14,12 @@ What we do now is just go to the porter lodge and complain. Or we send a message
 
 ## 4. Research - Interviews
 I asked a few people these qestions.
--What was the last fault you had in your hostel?
--How did you report it? 
--How long did it take to get fixed? 
--What happened while you were waiting?
--What was the most annoying part of reporting it?
--If there was an app to report it, what would you want it to do?
+What was the last fault you had in your hostel?
+How did you report it? 
+How long did it take to get fixed? 
+What happened while you were waiting?
+What was the most annoying part of reporting it?
+If there was an app to report it, what would you want it to do?
 
 Their responses were
 
